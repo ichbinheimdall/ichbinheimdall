@@ -1,11 +1,9 @@
-# Merhaba Dünya! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+# Hobi olarak ve amatörce frontend web geliştirme ve node js ile uğraşıyorum
 
 
-</> Hobi olarak ve amatörce frontend web geliştirme ve node js ile uğraşıyorum
+- [Linklerim](https://links.heimdalls.xyz)
 
-- Yoksa hâlâ [Linklerime](https://links.heimdalls.xyz) bir göz atmadın mı?
-
-- Kişisel sitemi [ziyaret](https://heimdalls.xyz) edebilirsin!
+- [Kişisel sitem](https://heimdalls.xyz)
 
 <img src="https://komarev.com/ghpvc/?username=ichbinheimdall&label=Ziyaretçi%20Sayısı&color=552b75" alt="ichbinheimdall" />
 

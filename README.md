@@ -8,6 +8,6 @@
 </p>
 <div align="center">
    <a href="https://discord.com/users/387675598044135436" target="_blank">
-      <img src="https://lanyard-profile-readme.vercel.app/api/387675598044135436?bg=111111">
+      <img src="https://lanyard-profile-readme.vercel.app/api/:387675598044135436">
    </a>
 </div>

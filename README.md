@@ -1,17 +1,14 @@
-# Hobi olarak ve amatörce frontend web geliştirme ve node js ile uğraşıyorum
+# Hobi olarak ve amatörce frontend/backend web geliştirme node.js ile uğraşıyorum.
 
-
-- [Linklerim](https://links.heimdalls.xyz)
-
-- [Kişisel sitem](https://heimdalls.xyz)
+- [Web Site](https://heimdalls.space)
 
 <img src="https://komarev.com/ghpvc/?username=ichbinheimdall&label=Ziyaretçi%20Sayısı&color=552b75" alt="ichbinheimdall" />
 
 <h3>🌟 Sosyal Medya</h3>
 <p align="center">
-   <a href="https://heimdalls.xyz/discord" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+   <a href="https://discord.heimdalls.space" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
    <a href="https://sptfy.com/ichbinheimdall" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-   <a href="https://heimdalls.xyz/youtube" target"blank_"><img src="https://img.shields.io/badge/youtube%20-111111.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
+   <a href="https://youtube.heimdalls.space" target"blank_"><img src="https://img.shields.io/badge/youtube%20-111111.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
    <a href="https://instagram.com/icbinheimdall" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-111111.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
    <a href="https://github.com/ichbinheimdall" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
    <a href="https://twitter.com/ichbinheimdall" target"blank_"><img src="https://img.shields.io/badge/Twitter%20-111111.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>

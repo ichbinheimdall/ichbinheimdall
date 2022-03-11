@@ -1,4 +1,6 @@
-<h1 align="center">Heimdall</h1> <img src="https://komarev.com/ghpvc/?username=ichbinheimdall&label=Profile%20views&color=0e75b6&style=flat" align="center" class="center"></img>
+<h1 align="center">Heimdall</h1> 
+
+<img src="https://komarev.com/ghpvc/?username=ichbinheimdall&label=Profile%20views&color=0e75b6&style=flat" align="center" class="center"></img>
 
 
 <p align="center">

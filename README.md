@@ -1,6 +1,5 @@
-<h1 align="center">Heimdall</h1>
+<h1 align="center">Heimdall</h1> <img src="https://komarev.com/ghpvc/?username=ichbinheimdall&label=Profile%20views&color=0e75b6&style=flat" align="center" class="center"></img>
 
-<img src="https://komarev.com/ghpvc/?username=ichbinheimdall&label=Profile%20views&color=0e75b6&style=flat" class="center"></img>
 
 <p align="center">
    <a href="https://discord.heimdalls.spaces" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>

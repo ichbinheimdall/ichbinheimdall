@@ -11,11 +11,11 @@
 </p>
 
 <div align="center">
-<img src="https://img.shields.io/badge/html%20-%23323330.svg?&style=for-the-badge&logo=html&logoColor=%23F7DF1E"/> 
-<img src="https://img.shields.io/badge/css%20-%23323330.svg?&style=for-the-badge&logo=css&logoColor=%23F7DF1E"/>
-<img src="https://img.shields.io/badge/php%20Basic%20-%23323330.svg?&style=for-the-badge&logo=php&logoColor=%23F7DF1E"/>
-<img src="https://img.shields.io/badge/nodejs%20-%23323330.svg?&style=for-the-badge&logo=nodejs&logoColor=%23F7DF1E"/>
-<img src="https://img.shields.io/badge/vue%20-%23323330.svg?&style=for-the-badge&logo=vue&logoColor=%23F7DF1E"/>
+<img src="https://img.shields.io/badge/html%20-%23323330.svg?&style=for-the-badge&logo=html5&logoColor=%23F7DF1E"/> 
+<img src="https://img.shields.io/badge/css%20-%23323330.svg?&style=for-the-badge&logo=css3&logoColor=%23F7DF1E"/>
+<img src="https://img.shields.io/badge/php%20-%23323330.svg?&style=for-the-badge&logo=php&logoColor=%23F7DF1E"/>
+<img src="https://img.shields.io/badge/node.js%20-%23323330.svg?&style=for-the-badge&logo=node.js&logoColor=%23F7DF1E"/>
+<img src="https://img.shields.io/badge/vue.js%20-%23323330.svg?&style=for-the-badge&logo=vue.js&logoColor=%23F7DF1E"/>
 </div>
 
 <div align="center">

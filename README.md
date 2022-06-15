@@ -1,7 +1,7 @@
 <h1 align="center">Heimdall</h1> 
-“We keep moving forward, opening up new doors and
-  doing new things, because we’re curious ...
-    and curiosity keeps leading us down new paths.”
+“We keep moving forward, opening up new doors and <br>
+  doing new things, because we’re curious ... <br>
+    and curiosity keeps leading us down new paths.” <br>
                           Walt Disney
 <img src="https://komarev.com/ghpvc/?username=ichbinheimdall&label=Profile%20views&color=0e75b6&style=flat" align="center" class="center"></img>
 

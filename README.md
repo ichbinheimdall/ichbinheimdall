@@ -29,7 +29,7 @@ Walt Disney
 <img src="https://img.shields.io/badge/java%20-%23323330.svg?&style=for-the-badge&logo=java&logoColor=%23F7DF1E"/>
 <br>
 <img src="https://img.shields.io/badge/mongodb%20-%23323330.svg?&style=for-the-badge&logo=mongodb&logoColor=%23F7DF1E"/>
-<img src="https://img.shields.io/badge/java%20-%23323330.svg?&style=for-the-badge&logo=java&logoColor=%23F7DF1E"/>
+<img src="https://img.shields.io/badge/mysql%20-%23323330.svg?&style=for-the-badge&logo=mysql&logoColor=%23F7DF1E"/>
 <img src="https://img.shields.io/badge/swift%20-%23323330.svg?&style=for-the-badge&logo=swift&logoColor=%23F7DF1E"/>
 <img src="https://img.shields.io/badge/unity%20-%23323330.svg?&style=for-the-badge&logo=unity&logoColor=%23F7DF1E"/>
 </div>

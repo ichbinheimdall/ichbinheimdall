@@ -7,7 +7,7 @@ Walt Disney
 </p>
 
 <p align="center">
-    <img id="preview" src="https://komarev.com/ghpvc/?username=ichbinheimdall&color=grey">
+    <img id="preview" src="https://komarev.com/ghpvc/?username=ichbinheimdall&color=red">
 </p>
 
 <p align="center">

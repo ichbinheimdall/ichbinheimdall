@@ -5,8 +5,9 @@ doing new things, because we’re curious ... <br>
 and curiosity keeps leading us down new paths.” <br>
 Walt Disney
 </p>
-<p style="text-align: center;">
-<img src="https://komarev.com/ghpvc/?username=ichbinheimdall&label=Profile%20views&color=0e75b6&style=flat" align="center" class="center"></img>
+
+<p align="center">
+    <img id="preview" src="https://komarev.com/ghpvc/?username=ichbinheimdall&color=grey">
 </p>
 
 <p align="center">

@@ -6,7 +6,9 @@ and curiosity keeps leading us down new paths.” <br>
 Walt Disney
 </p>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ps3jyelec8p9sxp3hcmpoeznb&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)
+<p align="center">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=ps3jyelec8p9sxp3hcmpoeznb&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true">
+</p>
 
 <p align="center">
     <img id="preview" src="https://komarev.com/ghpvc/?username=ichbinheimdall&color=red">

@@ -39,10 +39,3 @@ Walt Disney
 <img src="https://img.shields.io/badge/swift%20-%23323330.svg?&style=for-the-badge&logo=swift&logoColor=%23F7DF1E"/>
 <img src="https://img.shields.io/badge/unity%20-%23323330.svg?&style=for-the-badge&logo=unity&logoColor=%23F7DF1E"/>
 </div>
-
-<br>
-<div align="center">
-   <a href="https://discord.com/users/387675598044135436" target="_blank">
-      <img src="https://lanyard-profile-readme.vercel.app/api/387675598044135436?bg=111111">
-   </a>
-</div>

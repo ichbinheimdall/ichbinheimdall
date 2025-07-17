@@ -21,9 +21,7 @@ televizyona çıkmak ünlü olmak tanıdık olmak bir şey değil; <br>
 <h1></h1>
 
 <p align="center">
-   <a href="https://hmd.bio/spotify" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-   <a href="https://youtube.com/@Heimdall2503" target"blank_"><img src="https://img.shields.io/badge/youtube%20-111111.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
-   <a href="https://instagram.com/ichbinheimdall" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-111111.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+    heimdall@hmddevs.org
 </p>
 
 <p align="center">

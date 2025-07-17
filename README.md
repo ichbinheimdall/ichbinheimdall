@@ -17,9 +17,3 @@ televizyona çıkmak ünlü olmak tanıdık olmak bir şey değil; <br>
 <p align="center">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ps3jyelec8p9sxp3hcmpoeznb&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true">
 </p>
-
-<h1>
-    <p align="center">
-    heimdall[at]hmddevs[dot]com
-</p>
-</h1>

@@ -18,12 +18,8 @@ televizyona çıkmak ünlü olmak tanıdık olmak bir şey değil; <br>
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ps3jyelec8p9sxp3hcmpoeznb&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true">
 </p>
 
-<h1></h1>
-
-<p align="center">
-    heimdall@hmddevs.org
+<h1>
+    <p align="center">
+    heimdall[at]hmddevs[dot]com
 </p>
-
-<p align="center">
-    <img id="preview" src="https://komarev.com/ghpvc/?username=ichbinheimdall&color=red">
-</p>
+</h1>

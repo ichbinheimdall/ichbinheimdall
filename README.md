@@ -1,4 +1,4 @@
-<h1 align="center">Heimdall<br><i>contact@hmddevs.org</i></h1> 
+<h1 align="center">Heimdall</h1> 
 
 <p align="left">
 “We keep moving forward, opening up new doors and <br>
